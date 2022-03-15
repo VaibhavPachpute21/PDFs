@@ -1,0 +1,658 @@
+{
+  "First Year": {
+    "First Semester syllabus": "https://drive.google.com/file/d/1Cm9HqEG_Fgs1MNWERvYcW-DzXbKQW4si/view?usp=sharing",
+    "Second Semester syllabus": "https://drive.google.com/file/d/1Y0UYktwBUnxhkrD8Ia2evrTrCEEYN-G5/view?usp=sharing",
+    "First Semester": [
+      {
+        "books": [
+          {
+            "name": "Engineering Mathematics by GV Kumbhojkar",
+            "url": "https://drive.google.com/file/d/1m5L5oHvyqCjGPnvBqILbokzSNrxetvKy/view?usp=sharing"
+          },
+          {
+            "name": "Engineering Mathematics by BS Grewal",
+            "url": "https://drive.google.com/file/d/1RDq1yj8PKlh7YpV1KG_dx8qa6qurHPqS/view?usp=sharing"
+          }
+        ],
+        "subject": "Engineering Mathematics-III"
+      },
+      {
+        "books": [
+          {
+            "name": "A Beginners Guide to Discrete Mathematics by W. D. Wallis",
+            "url": "https://drive.google.com/file/d/123D9Q3KW9Ho00tLXjMQrcrhDCvX97ZNX/view?usp=sharing"
+          },
+          {
+            "name": "Discrete mathematics and its applications by Rosen, Kenneth H",
+            "url": "https://drive.google.com/file/d/15PVhJKV7MJyU3iJVUQmX-sc6jUVHDsq8/view?usp=sharing"
+          }
+        ],
+        "subject": "Discrete Structures and Graph Theory"
+      },
+      {
+        "books": [
+          {
+            "name": "Engineering Mathematics by GV Kumbhojkar",
+            "url": "https://drive.google.com/file/d/1m5L5oHvyqCjGPnvBqILbokzSNrxetvKy/view?usp=sharing"
+          },
+          {
+            "name": "Engineering Mathematics by BS Grewal",
+            "url": "https://drive.google.com/file/d/1RDq1yj8PKlh7YpV1KG_dx8qa6qurHPqS/view?usp=sharing"
+          }
+        ],
+        "subject": " Data Structure"
+      },
+      {
+        "books": [
+          {
+            "name": "A Beginners Guide to Discrete Mathematics by W. D. Wallis",
+            "url": "https://drive.google.com/file/d/123D9Q3KW9Ho00tLXjMQrcrhDCvX97ZNX/view?usp=sharing"
+          },
+          {
+            "name": "Discrete mathematics and its applications by Rosen, Kenneth H",
+            "url": "https://drive.google.com/file/d/15PVhJKV7MJyU3iJVUQmX-sc6jUVHDsq8/view?usp=sharing"
+          }
+        ],
+        "subject": "Computer Graphics"
+      },
+      {
+        "books": [
+          {
+            "name": "Engineering Mathematics by GV Kumbhojkar",
+            "url": "https://drive.google.com/file/d/1m5L5oHvyqCjGPnvBqILbokzSNrxetvKy/view?usp=sharing"
+          },
+          {
+            "name": "Engineering Mathematics by BS Grewal",
+            "url": "https://drive.google.com/file/d/1RDq1yj8PKlh7YpV1KG_dx8qa6qurHPqS/view?usp=sharing"
+          }
+        ],
+        "subject": "Programming with Java"
+      },
+      {
+        "books": [
+          {
+            "name": "A Beginners Guide to Discrete Mathematics by W. D. Wallis",
+            "url": "https://drive.google.com/file/d/123D9Q3KW9Ho00tLXjMQrcrhDCvX97ZNX/view?usp=sharing"
+          },
+          {
+            "name": "Discrete mathematics and its applications by Rosen, Kenneth H",
+            "url": "https://drive.google.com/file/d/15PVhJKV7MJyU3iJVUQmX-sc6jUVHDsq8/view?usp=sharing"
+          }
+        ],
+        "subject": "Discrete Structures and Graph Theory"
+      }
+    ],
+    "Second Semester": [
+      {
+        "books": [
+          {
+            "name": "Engineering Mathematics by GV Kumbhojkar",
+            "url": "https://drive.google.com/file/d/1m5L5oHvyqCjGPnvBqILbokzSNrxetvKy/view?usp=sharing"
+          },
+          {
+            "name": "Engineering Mathematics by BS Grewal",
+            "url": "https://drive.google.com/file/d/1RDq1yj8PKlh7YpV1KG_dx8qa6qurHPqS/view?usp=sharing"
+          }
+        ],
+        "subject": "Engineering Mathematics-IV"
+      },
+      {
+        "books": [
+          {
+            "name": "A Beginners Guide to Discrete Mathematics by W. D. Wallis",
+            "url": "https://drive.google.com/file/d/123D9Q3KW9Ho00tLXjMQrcrhDCvX97ZNX/view?usp=sharing"
+          },
+          {
+            "name": "Discrete mathematics and its applications by Rosen, Kenneth H",
+            "url": "https://drive.google.com/file/d/15PVhJKV7MJyU3iJVUQmX-sc6jUVHDsq8/view?usp=sharing"
+          }
+        ],
+        "subject": "Analysis of Algorithm"
+      },
+      {
+        "books": [
+          {
+            "name": "Engineering Mathematics by GV Kumbhojkar",
+            "url": "https://drive.google.com/file/d/1m5L5oHvyqCjGPnvBqILbokzSNrxetvKy/view?usp=sharing"
+          },
+          {
+            "name": "Engineering Mathematics by BS Grewal",
+            "url": "https://drive.google.com/file/d/1RDq1yj8PKlh7YpV1KG_dx8qa6qurHPqS/view?usp=sharing"
+          }
+        ],
+        "subject": "Database ManagementSystem"
+      },
+      {
+        "books": [
+          {
+            "name": "A Beginners Guide to Discrete Mathematics by W. D. Wallis",
+            "url": "https://drive.google.com/file/d/123D9Q3KW9Ho00tLXjMQrcrhDCvX97ZNX/view?usp=sharing"
+          },
+          {
+            "name": "Discrete mathematics and its applications by Rosen, Kenneth H",
+            "url": "https://drive.google.com/file/d/15PVhJKV7MJyU3iJVUQmX-sc6jUVHDsq8/view?usp=sharing"
+          }
+        ],
+        "subject": "Operating System"
+      },
+      {
+        "books": [
+          {
+            "name": "Engineering Mathematics by GV Kumbhojkar",
+            "url": "https://drive.google.com/file/d/1m5L5oHvyqCjGPnvBqILbokzSNrxetvKy/view?usp=sharing"
+          },
+          {
+            "name": "Engineering Mathematics by BS Grewal",
+            "url": "https://drive.google.com/file/d/1RDq1yj8PKlh7YpV1KG_dx8qa6qurHPqS/view?usp=sharing"
+          }
+        ],
+        "subject": "Microprocessor"
+      },
+      {
+        "books": [
+          {
+            "name": "A Beginners Guide to Discrete Mathematics by W. D. Wallis",
+            "url": "https://drive.google.com/file/d/123D9Q3KW9Ho00tLXjMQrcrhDCvX97ZNX/view?usp=sharing"
+          },
+          {
+            "name": "Discrete mathematics and its applications by Rosen, Kenneth H",
+            "url": "https://drive.google.com/file/d/15PVhJKV7MJyU3iJVUQmX-sc6jUVHDsq8/view?usp=sharing"
+          }
+        ],
+        "subject": "Python Programming"
+      }
+    ]
+  },
+  "Second Year": {
+    "Third Semester syllabus": "https://drive.google.com/file/d/1DM-wKAEkHz14G-WdSwOmtlckjCTqjfII/view?usp=sharing",
+    "Fourth Semester syllabus": "https://drive.google.com/file/d/1N3C34n1mmil8AsFDKhzbgrY_veBtAdKL/view?usp=sharing",
+    "Third Semester": [
+      {
+        "subject": "Engineering Mathematics-III",
+        "books": [
+          {
+            "name": "Engineering Mathematics by GV Kumbhojkar",
+            "url": "https://drive.google.com/file/d/1m5L5oHvyqCjGPnvBqILbokzSNrxetvKy/view?usp=sharing"
+          },
+          {
+            "name": "Engineering Mathematics by BS Grewal",
+            "url": "https://drive.google.com/file/d/1RDq1yj8PKlh7YpV1KG_dx8qa6qurHPqS/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "subject": "Discrete Structures and Graph Theory",
+        "books": [
+          {
+            "name": "A Beginners Guide to Discrete Mathematics by W. D. Wallis",
+            "url": "https://drive.google.com/file/d/123D9Q3KW9Ho00tLXjMQrcrhDCvX97ZNX/view?usp=sharing"
+          },
+          {
+            "name": "Discrete mathematics and its applications by Rosen, Kenneth H",
+            "url": "https://drive.google.com/file/d/15PVhJKV7MJyU3iJVUQmX-sc6jUVHDsq8/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "subject": " Data Structure",
+        "books": [
+          {
+            "name": "Data structures and algorithms  concepts, techniques and applications by G A Vijayalakshmi Pai",
+            "url": "https://drive.google.com/file/d/1ndhpAxpjNEw3s0o3M0uP9o5f-06VcDKb/view?usp=sharing"
+          },
+          {
+            "name": "Data Structures by E. Balagurusamy",
+            "url": "https://drive.google.com/file/d/17ZUS2yHOR7qbyPBC51fjkb6VbN92HIcA/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "subject": "Computer Graphics",
+        "books": [
+          {
+            "name": "Computer Graphics C Version - Hearn & Baker",
+            "url": "https://drive.google.com/file/d/1--BJ8oEAx9v-q2-4mHbp72maS1hdQ7QL/view?usp=sharing"
+          },
+          {
+            "name": "Computer Graphics Principles and Practice by James D. Foley Foley Dan Van Andries Van Dam Steven K. Feiner John F. Hughes Edward Angel J. Hughes",
+            "url": "https://drive.google.com/file/d/16W6Uqrs_p-XOx4BQQM5flhIq_xLqIfu0/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "subject": "Programming with Java",
+        "books": [
+          {
+            "name": "Java The Complete Reference, Eleventh Edition by Herbert Schildt",
+            "url": "https://drive.google.com/file/d/16NS2ABQ_a4hsr1VFn2Nvf1O_pQ73j0Ss/view?usp=sharing"
+          },
+          {
+            "name": "Programming with Java a Primer by E Balagurusamy",
+            "url": "https://drive.google.com/file/d/1XQWFNQKsE-dZ5U74k3W_6l2xsmkUVYvJ/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "subject": "digital logic & Computer Architecture ",
+        "books": [
+          {
+            "name": "Computer Architecture and Organization Design Principles and Applications by B. Govindarajalu",
+            "url": "https://drive.google.com/file/d/1gHXuH306Fl4mjmw5fOREa6VNLJeYudKr/view?usp=sharing"
+          },
+          {
+            "name": "Digital Computer Electronics by Albert P. Malvino, Jerald A. Brown",
+            "url": "https://drive.google.com/file/d/1vcd9QmAXRENJlWG9w_ahgynldVbH5Tfa/view?usp=sharing"
+          }
+        ]
+      }
+    ],
+    "Fourth Semester": [
+      {
+        "subject": "Engineering Mathematics-IV",
+        "books": [
+          {
+            "name": "Advanced Engineering Mathematics by Rajendra K. Jain",
+            "url": "https://drive.google.com/file/d/14vyChUKhnOu-HQdXqCj7d28W305ijNgw/view?usp=sharing"
+          },
+          {
+            "name": "Complex Variables and Applications by James Brown, Ruel Churchill",
+            "url": "https://drive.google.com/file/d/1IZPHw_GjyKi7QXFJahYJbWYGjAaLI_xa/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "subject": "Analysis of Algorithm",
+        "books": [
+          {
+            "name": "Introduction to algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+            "url": "https://drive.google.com/file/d/1dRER3Jkiga_aCfOf1YVomPrZA9bhTw1M/view?usp=sharing"
+          },
+          {
+            "name": "Computer Architecture and Organization by John Patrick Hayes",
+            "url": "https://drive.google.com/file/d/1XEY3LS0PYM2foZT2IIu8TevOE-Trj2CI/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "subject": "Database ManagementSystem",
+        "books": [
+          {
+            "name": "Introduction to Database Management System, 2nd Edition by Satinder Bal Gupta, Aditya Mittal",
+            "url": "https://drive.google.com/file/d/17zQ1wKL4V3umwvIhK2pv9WwyJvUVS6SJ/view?usp=sharing"
+          },
+          {
+            "name": "Database Management Systems by Raghu Ramakrishnan, Johannes Gehrke",
+            "url": "https://drive.google.com/file/d/1MbdcDBiiOPALvkrw7H_JSGqDsn_sEMqQ/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "subject": "Operating System",
+        "books": [
+          {
+            "name": "Operating Systems Design and Implementation by Andrew S. Tanenbaum",
+            "url": "https://drive.google.com/file/d/1ort7fnjJL6KHtIYf6BAgDK0ZUjutb4zT/view?usp=sharing"
+          },
+          {
+            "name": "Operating Systems Internals and Design Principles by William Stallings",
+            "url": "https://drive.google.com/file/d/1kTJEbb6UgHYEYvnt128427JCOFIbK_lB/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "subject": "Microprocessor",
+        "books": [
+          {
+            "name": "8051 Microcontrollers Fundamental Concepts, Hardware, Software and Applications in Electronics by Salvador Pinillos Gimenez",
+            "url": "https://drive.google.com/file/d/1atukHIyWEogWWtEfYOZP_7OIVu76rIDb/view?usp=sharing"
+          },
+          {
+            "name": "The Pentium Microprocessor by James L. Antonakos",
+            "url": "https://drive.google.com/file/d/16nCIQNdKQ2QyKldmbAOWEkdOtSYaflQL/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "subject": "Python Programming",
+        "books": [
+          {
+            "name": "A Beginners Guide to Discrete Mathematics by W. D. Wallis",
+            "url": "https://drive.google.com/file/d/123D9Q3KW9Ho00tLXjMQrcrhDCvX97ZNX/view?usp=sharing"
+          },
+          {
+            "name": "Discrete mathematics and its applications by Rosen, Kenneth H",
+            "url": "https://drive.google.com/file/d/15PVhJKV7MJyU3iJVUQmX-sc6jUVHDsq8/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  "Third Year": {
+    "Fifth Semester syllabus": "https://drive.google.com/file/d/1F-MXzz31ro8WXhYc0fKSveCiJVQ3zT5N/view?usp=sharing",
+    "Sixth Semester syllabus": "https://drive.google.com/file/d/1ubhM1V9wCE-rDLSOq-RJL_qPlVyYRhdp/view?usp=sharing",
+    "Fifth Semester": [
+      {
+        "books": [
+          {
+            "name": "Engineering Mathematics by GV Kumbhojkar",
+            "url": "https://drive.google.com/file/d/1m5L5oHvyqCjGPnvBqILbokzSNrxetvKy/view?usp=sharing"
+          },
+          {
+            "name": "Engineering Mathematics by BS Grewal",
+            "url": "https://drive.google.com/file/d/1RDq1yj8PKlh7YpV1KG_dx8qa6qurHPqS/view?usp=sharing"
+          }
+        ],
+        "subject": "Engineering Mathematics-III"
+      },
+      {
+        "books": [
+          {
+            "name": "A Beginners Guide to Discrete Mathematics by W. D. Wallis",
+            "url": "https://drive.google.com/file/d/123D9Q3KW9Ho00tLXjMQrcrhDCvX97ZNX/view?usp=sharing"
+          },
+          {
+            "name": "Discrete mathematics and its applications by Rosen, Kenneth H",
+            "url": "https://drive.google.com/file/d/15PVhJKV7MJyU3iJVUQmX-sc6jUVHDsq8/view?usp=sharing"
+          }
+        ],
+        "subject": "Discrete Structures and Graph Theory"
+      },
+      {
+        "books": [
+          {
+            "name": "Engineering Mathematics by GV Kumbhojkar",
+            "url": "https://drive.google.com/file/d/1m5L5oHvyqCjGPnvBqILbokzSNrxetvKy/view?usp=sharing"
+          },
+          {
+            "name": "Engineering Mathematics by BS Grewal",
+            "url": "https://drive.google.com/file/d/1RDq1yj8PKlh7YpV1KG_dx8qa6qurHPqS/view?usp=sharing"
+          }
+        ],
+        "subject": " Data Structure"
+      },
+      {
+        "books": [
+          {
+            "name": "A Beginners Guide to Discrete Mathematics by W. D. Wallis",
+            "url": "https://drive.google.com/file/d/123D9Q3KW9Ho00tLXjMQrcrhDCvX97ZNX/view?usp=sharing"
+          },
+          {
+            "name": "Discrete mathematics and its applications by Rosen, Kenneth H",
+            "url": "https://drive.google.com/file/d/15PVhJKV7MJyU3iJVUQmX-sc6jUVHDsq8/view?usp=sharing"
+          }
+        ],
+        "subject": "Computer Graphics"
+      },
+      {
+        "books": [
+          {
+            "name": "Engineering Mathematics by GV Kumbhojkar",
+            "url": "https://drive.google.com/file/d/1m5L5oHvyqCjGPnvBqILbokzSNrxetvKy/view?usp=sharing"
+          },
+          {
+            "name": "Engineering Mathematics by BS Grewal",
+            "url": "https://drive.google.com/file/d/1RDq1yj8PKlh7YpV1KG_dx8qa6qurHPqS/view?usp=sharing"
+          }
+        ],
+        "subject": "Programming with Java"
+      },
+      {
+        "books": [
+          {
+            "name": "A Beginners Guide to Discrete Mathematics by W. D. Wallis",
+            "url": "https://drive.google.com/file/d/123D9Q3KW9Ho00tLXjMQrcrhDCvX97ZNX/view?usp=sharing"
+          },
+          {
+            "name": "Discrete mathematics and its applications by Rosen, Kenneth H",
+            "url": "https://drive.google.com/file/d/15PVhJKV7MJyU3iJVUQmX-sc6jUVHDsq8/view?usp=sharing"
+          }
+        ],
+        "subject": "Discrete Structures and Graph Theory"
+      }
+    ],
+    "Sixth Semester": [
+      {
+        "books": [
+          {
+            "name": "Engineering Mathematics by GV Kumbhojkar",
+            "url": "https://drive.google.com/file/d/1m5L5oHvyqCjGPnvBqILbokzSNrxetvKy/view?usp=sharing"
+          },
+          {
+            "name": "Engineering Mathematics by BS Grewal",
+            "url": "https://drive.google.com/file/d/1RDq1yj8PKlh7YpV1KG_dx8qa6qurHPqS/view?usp=sharing"
+          }
+        ],
+        "subject": "Engineering Mathematics-IV"
+      },
+      {
+        "books": [
+          {
+            "name": "A Beginners Guide to Discrete Mathematics by W. D. Wallis",
+            "url": "https://drive.google.com/file/d/123D9Q3KW9Ho00tLXjMQrcrhDCvX97ZNX/view?usp=sharing"
+          },
+          {
+            "name": "Discrete mathematics and its applications by Rosen, Kenneth H",
+            "url": "https://drive.google.com/file/d/15PVhJKV7MJyU3iJVUQmX-sc6jUVHDsq8/view?usp=sharing"
+          }
+        ],
+        "subject": "Analysis of Algorithm"
+      },
+      {
+        "books": [
+          {
+            "name": "Engineering Mathematics by GV Kumbhojkar",
+            "url": "https://drive.google.com/file/d/1m5L5oHvyqCjGPnvBqILbokzSNrxetvKy/view?usp=sharing"
+          },
+          {
+            "name": "Engineering Mathematics by BS Grewal",
+            "url": "https://drive.google.com/file/d/1RDq1yj8PKlh7YpV1KG_dx8qa6qurHPqS/view?usp=sharing"
+          }
+        ],
+        "subject": "Database ManagementSystem"
+      },
+      {
+        "books": [
+          {
+            "name": "A Beginners Guide to Discrete Mathematics by W. D. Wallis",
+            "url": "https://drive.google.com/file/d/123D9Q3KW9Ho00tLXjMQrcrhDCvX97ZNX/view?usp=sharing"
+          },
+          {
+            "name": "Discrete mathematics and its applications by Rosen, Kenneth H",
+            "url": "https://drive.google.com/file/d/15PVhJKV7MJyU3iJVUQmX-sc6jUVHDsq8/view?usp=sharing"
+          }
+        ],
+        "subject": "Operating System"
+      },
+      {
+        "books": [
+          {
+            "name": "Engineering Mathematics by GV Kumbhojkar",
+            "url": "https://drive.google.com/file/d/1m5L5oHvyqCjGPnvBqILbokzSNrxetvKy/view?usp=sharing"
+          },
+          {
+            "name": "Engineering Mathematics by BS Grewal",
+            "url": "https://drive.google.com/file/d/1RDq1yj8PKlh7YpV1KG_dx8qa6qurHPqS/view?usp=sharing"
+          }
+        ],
+        "subject": "Microprocessor"
+      },
+      {
+        "books": [
+          {
+            "name": "A Beginners Guide to Discrete Mathematics by W. D. Wallis",
+            "url": "https://drive.google.com/file/d/123D9Q3KW9Ho00tLXjMQrcrhDCvX97ZNX/view?usp=sharing"
+          },
+          {
+            "name": "Discrete mathematics and its applications by Rosen, Kenneth H",
+            "url": "https://drive.google.com/file/d/15PVhJKV7MJyU3iJVUQmX-sc6jUVHDsq8/view?usp=sharing"
+          }
+        ],
+        "subject": "Python Programming"
+      }
+    ]
+  },
+  "Last Year": {
+    "Seventh Semester syllabus": "https://drive.google.com/file/d/1x1ZWtqlRNNkN4ZeBtKxs2pkhlZ5w0Cyz/view?usp=sharing",
+    "Eight Semester syllabus": "https://drive.google.com/file/d/1x1ZWtqlRNNkN4ZeBtKxs2pkhlZ5w0Cyz/view?usp=sharing",
+    "Seventh Semester": [
+      {
+        "books": [
+          {
+            "name": "Engineering Mathematics by GV Kumbhojkar",
+            "url": "https://drive.google.com/file/d/1m5L5oHvyqCjGPnvBqILbokzSNrxetvKy/view?usp=sharing"
+          },
+          {
+            "name": "Engineering Mathematics by BS Grewal",
+            "url": "https://drive.google.com/file/d/1RDq1yj8PKlh7YpV1KG_dx8qa6qurHPqS/view?usp=sharing"
+          }
+        ],
+        "subject": "Engineering Mathematics-III"
+      },
+      {
+        "books": [
+          {
+            "name": "A Beginners Guide to Discrete Mathematics by W. D. Wallis",
+            "url": "https://drive.google.com/file/d/123D9Q3KW9Ho00tLXjMQrcrhDCvX97ZNX/view?usp=sharing"
+          },
+          {
+            "name": "Discrete mathematics and its applications by Rosen, Kenneth H",
+            "url": "https://drive.google.com/file/d/15PVhJKV7MJyU3iJVUQmX-sc6jUVHDsq8/view?usp=sharing"
+          }
+        ],
+        "subject": "Discrete Structures and Graph Theory"
+      },
+      {
+        "books": [
+          {
+            "name": "Engineering Mathematics by GV Kumbhojkar",
+            "url": "https://drive.google.com/file/d/1m5L5oHvyqCjGPnvBqILbokzSNrxetvKy/view?usp=sharing"
+          },
+          {
+            "name": "Engineering Mathematics by BS Grewal",
+            "url": "https://drive.google.com/file/d/1RDq1yj8PKlh7YpV1KG_dx8qa6qurHPqS/view?usp=sharing"
+          }
+        ],
+        "subject": " Data Structure"
+      },
+      {
+        "books": [
+          {
+            "name": "A Beginners Guide to Discrete Mathematics by W. D. Wallis",
+            "url": "https://drive.google.com/file/d/123D9Q3KW9Ho00tLXjMQrcrhDCvX97ZNX/view?usp=sharing"
+          },
+          {
+            "name": "Discrete mathematics and its applications by Rosen, Kenneth H",
+            "url": "https://drive.google.com/file/d/15PVhJKV7MJyU3iJVUQmX-sc6jUVHDsq8/view?usp=sharing"
+          }
+        ],
+        "subject": "Computer Graphics"
+      },
+      {
+        "books": [
+          {
+            "name": "Engineering Mathematics by GV Kumbhojkar",
+            "url": "https://drive.google.com/file/d/1m5L5oHvyqCjGPnvBqILbokzSNrxetvKy/view?usp=sharing"
+          },
+          {
+            "name": "Engineering Mathematics by BS Grewal",
+            "url": "https://drive.google.com/file/d/1RDq1yj8PKlh7YpV1KG_dx8qa6qurHPqS/view?usp=sharing"
+          }
+        ],
+        "subject": "Programming with Java"
+      },
+      {
+        "books": [
+          {
+            "name": "A Beginners Guide to Discrete Mathematics by W. D. Wallis",
+            "url": "https://drive.google.com/file/d/123D9Q3KW9Ho00tLXjMQrcrhDCvX97ZNX/view?usp=sharing"
+          },
+          {
+            "name": "Discrete mathematics and its applications by Rosen, Kenneth H",
+            "url": "https://drive.google.com/file/d/15PVhJKV7MJyU3iJVUQmX-sc6jUVHDsq8/view?usp=sharing"
+          }
+        ],
+        "subject": "Discrete Structures and Graph Theory"
+      }
+    ],
+    "Eight Semester": [
+      {
+        "books": [
+          {
+            "name": "Engineering Mathematics by GV Kumbhojkar",
+            "url": "https://drive.google.com/file/d/1m5L5oHvyqCjGPnvBqILbokzSNrxetvKy/view?usp=sharing"
+          },
+          {
+            "name": "Engineering Mathematics by BS Grewal",
+            "url": "https://drive.google.com/file/d/1RDq1yj8PKlh7YpV1KG_dx8qa6qurHPqS/view?usp=sharing"
+          }
+        ],
+        "subject": "Engineering Mathematics-IV"
+      },
+      {
+        "books": [
+          {
+            "name": "A Beginners Guide to Discrete Mathematics by W. D. Wallis",
+            "url": "https://drive.google.com/file/d/123D9Q3KW9Ho00tLXjMQrcrhDCvX97ZNX/view?usp=sharing"
+          },
+          {
+            "name": "Discrete mathematics and its applications by Rosen, Kenneth H",
+            "url": "https://drive.google.com/file/d/15PVhJKV7MJyU3iJVUQmX-sc6jUVHDsq8/view?usp=sharing"
+          }
+        ],
+        "subject": "Analysis of Algorithm"
+      },
+      {
+        "books": [
+          {
+            "name": "Engineering Mathematics by GV Kumbhojkar",
+            "url": "https://drive.google.com/file/d/1m5L5oHvyqCjGPnvBqILbokzSNrxetvKy/view?usp=sharing"
+          },
+          {
+            "name": "Engineering Mathematics by BS Grewal",
+            "url": "https://drive.google.com/file/d/1RDq1yj8PKlh7YpV1KG_dx8qa6qurHPqS/view?usp=sharing"
+          }
+        ],
+        "subject": "Database ManagementSystem"
+      },
+      {
+        "books": [
+          {
+            "name": "A Beginners Guide to Discrete Mathematics by W. D. Wallis",
+            "url": "https://drive.google.com/file/d/123D9Q3KW9Ho00tLXjMQrcrhDCvX97ZNX/view?usp=sharing"
+          },
+          {
+            "name": "Discrete mathematics and its applications by Rosen, Kenneth H",
+            "url": "https://drive.google.com/file/d/15PVhJKV7MJyU3iJVUQmX-sc6jUVHDsq8/view?usp=sharing"
+          }
+        ],
+        "subject": "Operating System"
+      },
+      {
+        "books": [
+          {
+            "name": "Engineering Mathematics by GV Kumbhojkar",
+            "url": "https://drive.google.com/file/d/1m5L5oHvyqCjGPnvBqILbokzSNrxetvKy/view?usp=sharing"
+          },
+          {
+            "name": "Engineering Mathematics by BS Grewal",
+            "url": "https://drive.google.com/file/d/1RDq1yj8PKlh7YpV1KG_dx8qa6qurHPqS/view?usp=sharing"
+          }
+        ],
+        "subject": "Microprocessor"
+      },
+      {
+        "books": [
+          {
+            "name": "A Beginners Guide to Discrete Mathematics by W. D. Wallis",
+            "url": "https://drive.google.com/file/d/123D9Q3KW9Ho00tLXjMQrcrhDCvX97ZNX/view?usp=sharing"
+          },
+          {
+            "name": "Discrete mathematics and its applications by Rosen, Kenneth H",
+            "url": "https://drive.google.com/file/d/15PVhJKV7MJyU3iJVUQmX-sc6jUVHDsq8/view?usp=sharing"
+          }
+        ],
+        "subject": "Python Programming"
+      }
+    ]
+  }
+}
